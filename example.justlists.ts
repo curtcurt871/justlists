@@ -1,7 +1,7 @@
 {
-    "name":"JustSwap Default List",
+    "name":"JustSwap Default",
     "tokens":[
-        {
+    
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
             "chainId":1,
